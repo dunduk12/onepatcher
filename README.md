@@ -1,4 +1,3 @@
 # onepatcher
-A patcher for loading and fixing onetap v2 crack.
-
-Onepatcher allows you to load and fix onetap segment
+A loader for onetap v2 crack.
+Rewritten 0x000cb primal loader.
